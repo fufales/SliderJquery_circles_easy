@@ -45,7 +45,7 @@ Creamos un nuevo boton para poder controlar el div añadido, el cual se vería d
 
         <span data-targetslid="cont_5"></span>
 
-Se ouede notar que lo unico que le debemos cambiar es el atributo <code>data-targetslid="cont_5"</code> por el ID del div que acabamos de crear.
+Se puede notar que lo unico que le debemos cambiar es el atributo <code>data-targetslid="cont_5"</code> por el ID del div que acabamos de crear.
 
 Y listo, luego podemos cambiar el CSS y ponerle los estilos que queramos.
 
