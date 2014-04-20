@@ -26,7 +26,7 @@ Lo más importante en cuanto a los controles es lo siguiente:
 
     data-targetslid="cont_1"
 
-Cambiando el atrivuto <code>cont_1</code> podemos mostrar u ocultar el div deceado con el mismo ID al hacer click en el controlador o boton especifico.
+Cambiando el atributo <code>cont_1</code> podemos mostrar u ocultar el div deceado con el mismo ID al hacer click en el controlador o boton especifico.
 
 Como crear nuevo slide?
 =======================
@@ -45,7 +45,7 @@ Creamos un nuevo boton para poder controlar el div añadido, el cual se vería d
 
         <span data-targetslid="cont_5"></span>
 
-Se ouede notar que lo unico que le debemos cambiar es el atrivuto <code>data-targetslid="cont_5"</code> por el ID del div que acabamos de crear.
+Se ouede notar que lo unico que le debemos cambiar es el atributo <code>data-targetslid="cont_5"</code> por el ID del div que acabamos de crear.
 
 Y listo, luego podemos cambiar el CSS y ponerle los estilos que queramos.
 
