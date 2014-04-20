@@ -36,16 +36,16 @@ Lo importante es crear el div dentro de <code>#con_slider .wrapper</code>.
 
 Un nuevo div se vería algo así
 
-        <div class="active cn_slid" id="cont_4">
-            <!--Contenido del slide numero 4-->
+        <div class="cn_slid" id="cont_5">
+            <!--Contenido del slide numero 5-->
         </div>
         
 - <b>Y creamos un nuevo boton para el div creado</b>:
 Creamos un nuevo boton para poder controlar el div añadido, el cual se vería de la siguiente forma:
 
-        <span data-targetslid="cont_4"></span>
+        <span data-targetslid="cont_5"></span>
 
-Se ouede notar que lo unico que le debemos cambiar es el atrivuto <code>data-targetslid="cont_4"</code> por el ID del div que acabamos de crear.
+Se ouede notar que lo unico que le debemos cambiar es el atrivuto <code>data-targetslid="cont_5"</code> por el ID del div que acabamos de crear.
 
 Y listo, luego podemos cambiar el CSS y ponerle los estilos que queramos.
 
